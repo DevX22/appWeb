@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AppWebLyB
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# appWeb
+desarrollo de una aplicacion web para la empresa novedades y ofertas L&amp;B
+>>>>>>> 6b6106ffa3141274ee2e96d090e325386c58273a
